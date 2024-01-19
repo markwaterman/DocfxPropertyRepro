@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: DocfxPropertyRepro
+  commentId: N:DocfxPropertyRepro
+  id: DocfxPropertyRepro
+  children:
+  - DocfxPropertyRepro.Dog
+  langs:
+  - csharp
+  - vb
+  name: DocfxPropertyRepro
+  nameWithType: DocfxPropertyRepro
+  fullName: DocfxPropertyRepro
+  type: Namespace
+  assemblies:
+  - DocfxPropertyRepro
+references:
+- uid: DocfxPropertyRepro.Dog
+  commentId: T:DocfxPropertyRepro.Dog
+  href: DocfxPropertyRepro.Dog.html
+  name: Dog
+  nameWithType: Dog
+  fullName: DocfxPropertyRepro.Dog

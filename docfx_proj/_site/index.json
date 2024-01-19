@@ -1,0 +1,27 @@
+{
+  "api/DocfxPropertyRepro.Dog.html": {
+    "href": "api/DocfxPropertyRepro.Dog.html",
+    "title": "Class Dog | mysite",
+    "keywords": "Class Dog Namespace DocfxPropertyRepro Assembly DocfxPropertyRepro.dll Class representing a dog. public class Dog Inheritance object Dog Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors Dog(string, int) Constructor. public Dog(string name, int age) Parameters name string Name of the dog. age int Age of the dog. Properties Age Age of the dog. public int Age { get; } Property Value int Class representing a dog. Name Name of the dog. public string Name { get; } Property Value string Class representing a dog."
+  },
+  "api/DocfxPropertyRepro.html": {
+    "href": "api/DocfxPropertyRepro.html",
+    "title": "Namespace DocfxPropertyRepro | mysite",
+    "keywords": "Namespace DocfxPropertyRepro Classes Dog Class representing a dog."
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | mysite",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | mysite",
+    "keywords": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | mysite",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}

@@ -1,0 +1,60 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DocfxPropertyRepro
+  name: DocfxPropertyRepro
+  href: api/DocfxPropertyRepro.html
+  commentId: N:DocfxPropertyRepro
+  fullName: DocfxPropertyRepro
+  nameWithType: DocfxPropertyRepro
+- uid: DocfxPropertyRepro.Dog
+  name: Dog
+  href: api/DocfxPropertyRepro.Dog.html
+  commentId: T:DocfxPropertyRepro.Dog
+  fullName: DocfxPropertyRepro.Dog
+  nameWithType: Dog
+- uid: DocfxPropertyRepro.Dog.#ctor(System.String,System.Int32)
+  name: Dog(string, int)
+  href: api/DocfxPropertyRepro.Dog.html#DocfxPropertyRepro_Dog__ctor_System_String_System_Int32_
+  commentId: M:DocfxPropertyRepro.Dog.#ctor(System.String,System.Int32)
+  name.vb: New(String, Integer)
+  fullName: DocfxPropertyRepro.Dog.Dog(string, int)
+  fullName.vb: DocfxPropertyRepro.Dog.New(String, Integer)
+  nameWithType: Dog.Dog(string, int)
+  nameWithType.vb: Dog.New(String, Integer)
+- uid: DocfxPropertyRepro.Dog.#ctor*
+  name: Dog
+  href: api/DocfxPropertyRepro.Dog.html#DocfxPropertyRepro_Dog__ctor_
+  commentId: Overload:DocfxPropertyRepro.Dog.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DocfxPropertyRepro.Dog.Dog
+  fullName.vb: DocfxPropertyRepro.Dog.New
+  nameWithType: Dog.Dog
+  nameWithType.vb: Dog.New
+- uid: DocfxPropertyRepro.Dog.Age
+  name: Age
+  href: api/DocfxPropertyRepro.Dog.html#DocfxPropertyRepro_Dog_Age
+  commentId: P:DocfxPropertyRepro.Dog.Age
+  fullName: DocfxPropertyRepro.Dog.Age
+  nameWithType: Dog.Age
+- uid: DocfxPropertyRepro.Dog.Age*
+  name: Age
+  href: api/DocfxPropertyRepro.Dog.html#DocfxPropertyRepro_Dog_Age_
+  commentId: Overload:DocfxPropertyRepro.Dog.Age
+  isSpec: "True"
+  fullName: DocfxPropertyRepro.Dog.Age
+  nameWithType: Dog.Age
+- uid: DocfxPropertyRepro.Dog.Name
+  name: Name
+  href: api/DocfxPropertyRepro.Dog.html#DocfxPropertyRepro_Dog_Name
+  commentId: P:DocfxPropertyRepro.Dog.Name
+  fullName: DocfxPropertyRepro.Dog.Name
+  nameWithType: Dog.Name
+- uid: DocfxPropertyRepro.Dog.Name*
+  name: Name
+  href: api/DocfxPropertyRepro.Dog.html#DocfxPropertyRepro_Dog_Name_
+  commentId: Overload:DocfxPropertyRepro.Dog.Name
+  isSpec: "True"
+  fullName: DocfxPropertyRepro.Dog.Name
+  nameWithType: Dog.Name

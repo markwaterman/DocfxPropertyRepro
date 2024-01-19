@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocfxPropertyRepro", "DocfxPropertyRepro\DocfxPropertyRepro.csproj", "{9AC686CF-50B2-4CA9-8FEB-E44C1260CCAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC686CF-50B2-4CA9-8FEB-E44C1260CCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC686CF-50B2-4CA9-8FEB-E44C1260CCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC686CF-50B2-4CA9-8FEB-E44C1260CCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC686CF-50B2-4CA9-8FEB-E44C1260CCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0425FB3-AE93-44AC-9E1E-A0EFC60A650E}
+	EndGlobalSection
+EndGlobal

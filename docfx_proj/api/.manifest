@@ -1,0 +1,7 @@
+{
+  "DocfxPropertyRepro": "DocfxPropertyRepro.yml",
+  "DocfxPropertyRepro.Dog": "DocfxPropertyRepro.Dog.yml",
+  "DocfxPropertyRepro.Dog.#ctor(System.String,System.Int32)": "DocfxPropertyRepro.Dog.yml",
+  "DocfxPropertyRepro.Dog.Age": "DocfxPropertyRepro.Dog.yml",
+  "DocfxPropertyRepro.Dog.Name": "DocfxPropertyRepro.Dog.yml"
+}
